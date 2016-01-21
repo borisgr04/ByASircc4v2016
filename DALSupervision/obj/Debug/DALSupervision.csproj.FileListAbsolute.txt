@@ -1,0 +1,13 @@
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\DALSupervision.dll.config
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\DALSupervision.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\DALSupervision.pdb
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\EntityFramework.SqlServer.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\EntityFramework.SqlServer.xml
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\es\EntityFramework.resources.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\obj\Debug\DALSupervision.dll
+C:\x\ByA\Gober\Git\Sircc4\DALSupervision\obj\Debug\DALSupervision.pdb
