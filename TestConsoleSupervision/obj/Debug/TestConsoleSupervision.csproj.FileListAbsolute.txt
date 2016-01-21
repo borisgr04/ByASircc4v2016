@@ -1,0 +1,16 @@
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\TestConsoleSupervision.exe.config
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\TestConsoleSupervision.exe
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\TestConsoleSupervision.pdb
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\DAL.dll
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\EntityFramework.SqlServer.dll
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\DAL.pdb
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\EntityFramework.SqlServer.xml
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\es\EntityFramework.resources.dll
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\obj\Debug\TestConsoleSupervision.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\obj\Debug\TestConsoleSupervision.exe
+C:\x\ByA\Gober\Git\Sircc4\TestConsoleSupervision\obj\Debug\TestConsoleSupervision.pdb
