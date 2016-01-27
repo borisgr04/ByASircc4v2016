@@ -29,3 +29,11 @@ C:\x\ByA\Gober\Git\Sircc4\ByAHtmlToPdf\bin\Debug\itextsharp.xmlworker.dll
 C:\x\ByA\Gober\Git\Sircc4\ByAHtmlToPdf\bin\Debug\itextsharp.xml
 C:\x\ByA\Gober\Git\Sircc4\ByAHtmlToPdf\obj\Debug\ByAHtmlToPdf.dll
 C:\x\ByA\Gober\Git\Sircc4\ByAHtmlToPdf\obj\Debug\ByAHtmlToPdf.pdb
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\bin\Debug\ByAHtmlToPdf.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\bin\Debug\ByAHtmlToPdf.pdb
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\bin\Debug\itextsharp.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\bin\Debug\itextsharp.xmlworker.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\bin\Debug\itextsharp.xml
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\obj\Debug\ByAHtmlToPdf.csprojResolveAssemblyReference.cache
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\obj\Debug\ByAHtmlToPdf.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\ByAHtmlToPdf\obj\Debug\ByAHtmlToPdf.pdb

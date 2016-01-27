@@ -79,3 +79,6 @@ C:\x\ByA\Gober\Git\Sircc4\Financiero\bin\Debug\AutoMapper.xml
 C:\x\ByA\Gober\Git\Sircc4\Financiero\obj\Debug\Financiero.dll
 C:\x\ByA\Gober\Git\Sircc4\Financiero\obj\Debug\Financiero.pdb
 C:\x\ByA\Gober\Git\Sircc4\Financiero\obj\Debug\Financiero.csprojResolveAssemblyReference.cache
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\Financiero\obj\Debug\Financiero.csprojResolveAssemblyReference.cache
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\Financiero\obj\Debug\Financiero.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\Financiero\obj\Debug\Financiero.pdb

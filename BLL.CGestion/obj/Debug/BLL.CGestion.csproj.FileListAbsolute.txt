@@ -119,3 +119,6 @@ C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\bin\Debug\es\EntityFramework.SqlServer.re
 C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\obj\Debug\BLL.CGestion.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\obj\Debug\BLL.CGestion.dll
 C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\obj\Debug\BLL.CGestion.pdb
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.csprojResolveAssemblyReference.cache
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.pdb

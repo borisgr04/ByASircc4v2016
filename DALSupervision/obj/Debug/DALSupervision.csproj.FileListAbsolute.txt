@@ -11,3 +11,17 @@ C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\es\EntityFramework.resources.
 C:\x\ByA\Gober\Git\Sircc4\DALSupervision\bin\Debug\es\EntityFramework.SqlServer.resources.dll
 C:\x\ByA\Gober\Git\Sircc4\DALSupervision\obj\Debug\DALSupervision.dll
 C:\x\ByA\Gober\Git\Sircc4\DALSupervision\obj\Debug\DALSupervision.pdb
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\DALSupervision.dll.config
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\DALSupervision.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\DALSupervision.pdb
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\EntityFramework.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\EntityFramework.SqlServer.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\EntityFramework.xml
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\EntityFramework.SqlServer.xml
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\es\EntityFramework.resources.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\obj\Debug\DALSupervision.csprojResolveAssemblyReference.cache
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\obj\Debug\DALSupervision.dll
+D:\AdrianVergara\ASP.NET\ByASircc4v2016\DALSupervision\obj\Debug\DALSupervision.pdb
