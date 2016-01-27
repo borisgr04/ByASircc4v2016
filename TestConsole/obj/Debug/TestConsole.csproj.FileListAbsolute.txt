@@ -11,3 +11,11 @@ C:\x\ByA\Gober\Git\Sircc4\TestConsole\bin\Debug\EntityFramework.dll
 C:\x\ByA\Gober\Git\Sircc4\TestConsole\bin\Debug\EntityFramework.xml
 C:\x\ByA\Gober\Git\Sircc4\TestConsole\obj\Debug\TestConsole.exe
 C:\x\ByA\Gober\Git\Sircc4\TestConsole\obj\Debug\TestConsole.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.exe.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.exe
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.exe
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.pdb

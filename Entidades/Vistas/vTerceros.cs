@@ -38,13 +38,14 @@ namespace Entidades
         public string OBS_TER { get; set; }
         public string CLAS_TER { get; set; }
         public vTerceros() {
-            //APNOMBRE = (APE1_TER.Trim() + " " + (APE2_TER == null ? "" : APE2_TER.Trim()) + " " + (NOM1_TER == null ? "" : NOM1_TER.Trim()) + " " + (NOM2_TER == null ? "" : NOM2_TER.Trim())).Trim();
-            //NOMBRE= (NOM1_TER == null ? "" : NOM1_TER.Trim()) + " " + (NOM2_TER == null ? "" : NOM2_TER.Trim()) + " " + APE1_TER.Trim() + " " + (APE2_TER == null ? "" : APE2_TER.Trim()).Trim();
+            
         }
         public string APNOMBRE
         {
-            //get;
-            //set;
+            set
+            {
+                string a = value;
+            }
             get {
                 return (APE1_TER.Trim() + " " + (APE2_TER == null ? "" : APE2_TER.Trim()) + " " + (NOM1_TER == null ? "" : NOM1_TER.Trim()) + " " + (NOM2_TER == null ? "" : NOM2_TER.Trim())).Trim();
             }
@@ -55,8 +56,10 @@ namespace Entidades
             get{
                 return (NOM1_TER == null ? "" : NOM1_TER.Trim()) + " " + (NOM2_TER == null ? "" : NOM2_TER.Trim()) + " " + APE1_TER.Trim() + " " + (APE2_TER == null ? "" : APE2_TER.Trim()).Trim();
             }
-            //get;
-            //set;
+            set
+            {
+                string a = value;
+            }
         }
     }
 }

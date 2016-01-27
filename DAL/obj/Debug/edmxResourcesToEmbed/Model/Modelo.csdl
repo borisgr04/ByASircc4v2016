@@ -2851,7 +2851,7 @@
       <PropertyRef Name="IDE_TER" />
     </Key>
     <Property Name="IDE_TER" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="APE1_TER" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="APE1_TER" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
     <Property Name="DIR_TER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="TEL_TER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="EMA_TER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />

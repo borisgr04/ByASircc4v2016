@@ -156,6 +156,7 @@
     <Compile Include="Vistas\vTIPO_PLAZOS.cs" />
     <Compile Include="Vistas\vTIP_DOC.cs" />
     <Compile Include="Vistas\vVIGENCIAS.cs" />
+    <Compile Include="VOficios\vSolicitudRP.cs" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

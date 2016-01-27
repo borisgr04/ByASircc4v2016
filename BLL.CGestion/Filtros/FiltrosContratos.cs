@@ -45,6 +45,11 @@ namespace BLL.CGestion.Filtros
         public decimal ValorPagar { get; set; }
         public decimal ValorPagado { get; set; }
         public decimal ValorSaldo { get; set; }
+
+        public string C_APE1_TER { get; set; }
+        public string C_APE2_TER { get; set; }
+        public string C_NOM1_TER { get; set; }
+        public string C_NOM2_TER { get; set; }
     }
 
     

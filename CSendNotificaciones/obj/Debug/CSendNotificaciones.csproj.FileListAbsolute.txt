@@ -180,3 +180,6 @@ D:\Dev\_Sircc4\_Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.pdb
 C:\x\ByA\Gober\Git\Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.exe
 C:\x\ByA\Gober\Git\Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.exe
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.pdb

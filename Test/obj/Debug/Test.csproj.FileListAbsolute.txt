@@ -164,3 +164,7 @@ C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.csprojResolveAssemblyReference.cac
 C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.Form1.resources
 C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.Properties.Resources.resources
 C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.Form1.resources
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.Properties.Resources.resources
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.csproj.GenerateResource.Cache

@@ -167,3 +167,4 @@ D:\Dev\_Sircc4\_Sircc4\TestProject1\obj\Debug\TestProject1.csprojResolveAssembly
 D:\Dev\_Sircc4\_Sircc4\TestProject1\obj\Debug\TestProject1.dll
 D:\Dev\_Sircc4\_Sircc4\TestProject1\obj\Debug\TestProject1.pdb
 C:\x\ByA\Gober\Git\Sircc4\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
