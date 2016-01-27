@@ -129,6 +129,7 @@ C:\x\ByA\Gober\Git\Sircc4\BLL.Security\bin\Debug\es\EntityFramework.SqlServer.re
 C:\x\ByA\Gober\Git\Sircc4\BLL.Security\obj\Debug\BLL.Security.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\BLL.Security\obj\Debug\BLL.Security.dll
 C:\x\ByA\Gober\Git\Sircc4\BLL.Security\obj\Debug\BLL.Security.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Security\bin\Debug\AutoMapper.Net4.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Security\bin\Debug\BLL.Security.dll.config
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Security\bin\Debug\BLL.Security.dll
@@ -155,3 +156,31 @@ D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Security\bin\Debug\es\EntityFramewor
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Security\obj\Debug\BLL.Security.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Security\obj\Debug\BLL.Security.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Security\obj\Debug\BLL.Security.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\AutoMapper.Net4.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\BLL.Security.dll.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\BLL.Security.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\BLL.Security.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\AutoMapper.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\BLL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\ByA.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\DAL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\Entidades.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\EntityFramework.SqlServer.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\GDocWord.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\BLL.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\ByA.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\DAL.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\Entidades.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\AutoMapper.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\EntityFramework.SqlServer.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\GDocWord.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\GDocWord.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\es\EntityFramework.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\obj\Debug\BLL.Security.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\obj\Debug\BLL.Security.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Security\obj\Debug\BLL.Security.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

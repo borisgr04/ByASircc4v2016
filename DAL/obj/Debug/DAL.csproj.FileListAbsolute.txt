@@ -102,6 +102,7 @@ C:\x\ByA\Gober\Git\Sircc4\DAL\bin\Debug\es\EntityFramework.SqlServer.resources.d
 C:\x\ByA\Gober\Git\Sircc4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\DAL\obj\Debug\DAL.dll
 C:\x\ByA\Gober\Git\Sircc4\DAL\obj\Debug\DAL.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\DAL\bin\Debug\DAL.dll.config
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\DAL\bin\Debug\DAL.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\DAL\bin\Debug\DAL.pdb
@@ -118,3 +119,21 @@ D:\AdrianVergara\ASP.NET\ByASircc4v2016\DAL\bin\Debug\es\EntityFramework.SqlServ
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\DAL\obj\Debug\DAL.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\DAL\obj\Debug\DAL.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\DAL.dll.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\DAL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\DAL.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\Entidades.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\Entidades.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\es\EntityFramework.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\obj\Debug\DAL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\obj\Debug\DAL.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

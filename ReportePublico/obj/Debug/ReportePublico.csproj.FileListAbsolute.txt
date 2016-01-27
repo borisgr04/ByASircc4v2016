@@ -118,6 +118,7 @@ C:\x\ByA\Gober\Git\Sircc4\ReportePublico\bin\GDocWord.xml
 C:\x\ByA\Gober\Git\Sircc4\ReportePublico\obj\Debug\ReportePublico.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\ReportePublico\obj\Debug\ReportePublico.dll
 C:\x\ByA\Gober\Git\Sircc4\ReportePublico\obj\Debug\ReportePublico.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\ReportePublico\bin\AutoMapper.Net4.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\ReportePublico\bin\ReportePublico.dll.config
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\ReportePublico\bin\ReportePublico.dll
@@ -142,3 +143,29 @@ D:\AdrianVergara\ASP.NET\ByASircc4v2016\ReportePublico\bin\GDocWord.xml
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\ReportePublico\obj\Debug\ReportePublico.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\ReportePublico\obj\Debug\ReportePublico.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\ReportePublico\obj\Debug\ReportePublico.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\AutoMapper.Net4.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\ReportePublico.dll.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\ReportePublico.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\ReportePublico.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\AutoMapper.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\BLL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\BLL.Oracle.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\ByA.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\DAL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\Entidades.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\GDocWord.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\BLL.Oracle.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\BLL.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\ByA.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\DAL.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\Entidades.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\AutoMapper.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\GDocWord.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\bin\GDocWord.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\obj\Debug\ReportePublico.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\obj\Debug\ReportePublico.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\ReportePublico\obj\Debug\ReportePublico.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

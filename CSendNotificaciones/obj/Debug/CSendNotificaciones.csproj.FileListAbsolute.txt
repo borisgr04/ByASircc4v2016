@@ -180,6 +180,7 @@ D:\Dev\_Sircc4\_Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.pdb
 C:\x\ByA\Gober\Git\Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.exe
 C:\x\ByA\Gober\Git\Sircc4\CSendNotificaciones\obj\Debug\CSendNotificaciones.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\CSendNotificaciones\bin\Debug\AutoMapper.Net4.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\CSendNotificaciones\bin\Debug\CSendNotificaciones.exe.config
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\CSendNotificaciones\bin\Debug\CSendNotificaciones.exe.manifest
@@ -224,3 +225,8 @@ D:\AdrianVergara\ASP.NET\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotif
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.application
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.exe
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.exe
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\CSendNotificaciones\obj\Debug\CSendNotificaciones.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

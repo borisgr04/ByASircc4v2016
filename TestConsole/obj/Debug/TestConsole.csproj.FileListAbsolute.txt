@@ -11,6 +11,7 @@ C:\x\ByA\Gober\Git\Sircc4\TestConsole\bin\Debug\EntityFramework.dll
 C:\x\ByA\Gober\Git\Sircc4\TestConsole\bin\Debug\EntityFramework.xml
 C:\x\ByA\Gober\Git\Sircc4\TestConsole\obj\Debug\TestConsole.exe
 C:\x\ByA\Gober\Git\Sircc4\TestConsole\obj\Debug\TestConsole.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.exe.config
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.exe
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.pdb
@@ -19,3 +20,13 @@ D:\AdrianVergara\ASP.NET\ByASircc4v2016\TestConsole\bin\Debug\EntityFramework.xm
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.exe
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.exe.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.exe
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\TestConsole.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.exe
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\TestConsole\obj\Debug\TestConsole.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

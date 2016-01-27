@@ -43,6 +43,7 @@ C:\x\ByA\Gober\Git\Sircc4\BLL.Financiero1\bin\Debug\es\EntityFramework.resources
 C:\x\ByA\Gober\Git\Sircc4\BLL.Financiero1\bin\Debug\es\EntityFramework.SqlServer.resources.dll
 C:\x\ByA\Gober\Git\Sircc4\BLL.Financiero1\obj\Debug\BLL.Financiero1.dll
 C:\x\ByA\Gober\Git\Sircc4\BLL.Financiero1\obj\Debug\BLL.Financiero1.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Financiero1\bin\Debug\AutoMapper.Net4.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Financiero1\bin\Debug\BLL.Financiero1.dll.config
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Financiero1\bin\Debug\BLL.Financiero1.dll
@@ -60,3 +61,22 @@ D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Financiero1\bin\Debug\es\EntityFrame
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Financiero1\obj\Debug\BLL.Financiero1.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Financiero1\obj\Debug\BLL.Financiero1.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.Financiero1\obj\Debug\BLL.Financiero1.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\AutoMapper.Net4.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\BLL.Financiero1.dll.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\BLL.Financiero1.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\BLL.Financiero1.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\AutoMapper.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\EntityFramework.SqlServer.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\AutoMapper.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\AutoMapper.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\AutoMapper.Net4.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\EntityFramework.SqlServer.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\es\EntityFramework.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\obj\Debug\BLL.Financiero1.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\obj\Debug\BLL.Financiero1.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.Financiero1\obj\Debug\BLL.Financiero1.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

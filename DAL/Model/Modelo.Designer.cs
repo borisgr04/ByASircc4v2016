@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\x\ByA\Gober\Git\Sircc4\DAL\Model\Modelo.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\DAL\Model\Modelo.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

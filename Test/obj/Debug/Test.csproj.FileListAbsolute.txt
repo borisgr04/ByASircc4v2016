@@ -164,7 +164,14 @@ C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.csprojResolveAssemblyReference.cac
 C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.Form1.resources
 C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.Properties.Resources.resources
 C:\x\ByA\Gober\Git\Sircc4\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Test\obj\Debug\Test.Form1.resources
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Test\obj\Debug\Test.Properties.Resources.resources
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.Form1.resources
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.Properties.Resources.resources
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

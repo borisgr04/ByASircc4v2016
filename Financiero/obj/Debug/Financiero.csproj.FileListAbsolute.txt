@@ -79,6 +79,18 @@ C:\x\ByA\Gober\Git\Sircc4\Financiero\bin\Debug\AutoMapper.xml
 C:\x\ByA\Gober\Git\Sircc4\Financiero\obj\Debug\Financiero.dll
 C:\x\ByA\Gober\Git\Sircc4\Financiero\obj\Debug\Financiero.pdb
 C:\x\ByA\Gober\Git\Sircc4\Financiero\obj\Debug\Financiero.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Financiero\obj\Debug\Financiero.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Financiero\obj\Debug\Financiero.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Financiero\obj\Debug\Financiero.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\bin\Debug\AutoMapper.Net4.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\bin\Debug\Financiero.dll.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\bin\Debug\Financiero.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\bin\Debug\Financiero.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\bin\Debug\AutoMapper.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\bin\Debug\AutoMapper.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\obj\Debug\Financiero.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\obj\Debug\Financiero.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Financiero\obj\Debug\Financiero.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

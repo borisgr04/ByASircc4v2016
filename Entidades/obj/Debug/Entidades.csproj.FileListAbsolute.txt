@@ -54,8 +54,15 @@ C:\x\ByA\Gober\Git\Sircc4\Entidades\bin\Debug\Entidades.pdb
 C:\x\ByA\Gober\Git\Sircc4\Entidades\obj\Debug\Entidades.dll
 C:\x\ByA\Gober\Git\Sircc4\Entidades\obj\Debug\Entidades.pdb
 C:\x\ByA\Gober\Git\Sircc4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Entidades\bin\Debug\Entidades.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Entidades\bin\Debug\Entidades.pdb
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Entidades\obj\Debug\Entidades.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\Entidades\obj\Debug\Entidades.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Entidades\bin\Debug\Entidades.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Entidades\bin\Debug\Entidades.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Entidades\obj\Debug\Entidades.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\Entidades\obj\Debug\Entidades.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

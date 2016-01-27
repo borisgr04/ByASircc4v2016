@@ -74,6 +74,7 @@ C:\x\ByA\Gober\Git\Sircc4\WebApiCDPs\bin\es\System.Web.Http.WebHost.resources.dl
 C:\x\ByA\Gober\Git\Sircc4\WebApiCDPs\obj\Debug\WebApiCDPs.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\WebApiCDPs\obj\Debug\WebApiCDPs.dll
 C:\x\ByA\Gober\Git\Sircc4\WebApiCDPs\obj\Debug\WebApiCDPs.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\WebApiCDPs\bin\AutoMapper.Net4.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\WebApiCDPs\bin\WebApiCDPs.dll.config
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\WebApiCDPs\bin\WebApiCDPs.dll
@@ -94,3 +95,25 @@ D:\AdrianVergara\ASP.NET\ByASircc4v2016\WebApiCDPs\bin\es\System.Web.Http.WebHos
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\WebApiCDPs\obj\Debug\WebApiCDPs.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\WebApiCDPs\obj\Debug\WebApiCDPs.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\WebApiCDPs\obj\Debug\WebApiCDPs.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\AutoMapper.Net4.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\WebApiCDPs.dll.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\WebApiCDPs.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\WebApiCDPs.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\BLL.Financiero1.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\Newtonsoft.Json.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\System.Net.Http.Formatting.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\System.Web.Http.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\System.Web.Http.WebHost.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\BLL.Financiero1.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\Newtonsoft.Json.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\System.Net.Http.Formatting.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\System.Web.Http.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\System.Web.Http.WebHost.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\es\System.Net.Http.Formatting.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\es\System.Web.Http.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\bin\es\System.Web.Http.WebHost.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\obj\Debug\WebApiCDPs.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\obj\Debug\WebApiCDPs.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\WebApiCDPs\obj\Debug\WebApiCDPs.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

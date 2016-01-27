@@ -119,6 +119,35 @@ C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\bin\Debug\es\EntityFramework.SqlServer.re
 C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\obj\Debug\BLL.CGestion.csprojResolveAssemblyReference.cache
 C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\obj\Debug\BLL.CGestion.dll
 C:\x\ByA\Gober\Git\Sircc4\BLL.CGestion\obj\Debug\BLL.CGestion.pdb
+<<<<<<< HEAD
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.csprojResolveAssemblyReference.cache
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.dll
 D:\AdrianVergara\ASP.NET\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.pdb
+=======
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\AutoMapper.Net4.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\BLL.CGestion.dll.config
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\BLL.CGestion.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\BLL.CGestion.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\AutoMapper.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\BLL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\ByA.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\DAL.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\Entidades.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\EntityFramework.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\EntityFramework.SqlServer.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\GDocWord.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\BLL.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\ByA.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\DAL.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\Entidades.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\GDocWord.pdb
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\GDocWord.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\AutoMapper.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\EntityFramework.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\EntityFramework.SqlServer.xml
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\es\EntityFramework.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.csprojResolveAssemblyReference.cache
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.dll
+C:\x\ByA\Gober\Git\Sircc4vr2016\ByASircc4v2016\BLL.CGestion\obj\Debug\BLL.CGestion.pdb
+>>>>>>> 380afdb93faad6922a9162a68ad9ce055fe6c4f4

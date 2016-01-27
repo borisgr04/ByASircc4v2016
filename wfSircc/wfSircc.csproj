@@ -1420,6 +1420,7 @@
     <Content Include="Seguridad\PerfilxUsuario.aspx" />
     <Content Include="Servicios\Contratos\wsAnulacion.asmx" />
     <Content Include="Servicios\Contratos\wsCesiones.asmx" />
+    <Content Include="Servicios\Contratos\wsDocumentos.asmx" />
     <Content Include="Servicios\Contratos\wsGestion.asmx" />
     <Content Include="Servicios\Contratos\wsLegalizacion.asmx" />
     <Content Include="Servicios\Contratos\wsModFecha.asmx" />
@@ -2528,6 +2529,10 @@
     </Compile>
     <Compile Include="Servicios\Contratos\wsCesiones.asmx.cs">
       <DependentUpon>wsCesiones.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Servicios\Contratos\wsDocumentos.asmx.cs">
+      <DependentUpon>wsDocumentos.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Servicios\Contratos\wsGestion.asmx.cs">

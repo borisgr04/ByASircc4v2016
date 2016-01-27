@@ -2764,7 +2764,7 @@ warning 6002: The table/view 'SIRCC.RUBROS_CONTRATOS_X' does not have a primary 
             <PropertyRef Name="IDE_TER" />
           </Key>
           <Property Name="IDE_TER" Type="varchar2" MaxLength="15" Nullable="false" />
-          <Property Name="APE1_TER" Type="varchar2" MaxLength="1000" Nullable="false" />
+          <Property Name="APE1_TER" Type="varchar2" MaxLength="300" Nullable="false" />
           <Property Name="DIR_TER" Type="varchar2" MaxLength="50" />
           <Property Name="TEL_TER" Type="varchar2" MaxLength="50" />
           <Property Name="EMA_TER" Type="varchar2" MaxLength="50" />
@@ -9582,7 +9582,7 @@ FROM "SIRCC"."RUBROS_CONTRATOS_X" "RUBROS_CONTRATOS_X"</DefiningQuery>
             <PropertyRef Name="IDE_TER" />
           </Key>
           <Property Name="IDE_TER" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
-          <Property Name="APE1_TER" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="APE1_TER" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="DIR_TER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="TEL_TER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="EMA_TER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
